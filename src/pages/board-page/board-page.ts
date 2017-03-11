@@ -128,6 +128,46 @@ public data: any;
       "thirtytwo" : "WhiteMan"
       }]
   }
+
+  restoreDefaultstate(){
+
+
+    this.data = [{
+      "one" : "BlackMan",
+      "two" : "BlackMan",
+      "three" : "BlackMan",
+      "four" : "BlackMan",
+      "five" : "BlackMan",
+      "six" : "BlackMan",
+      "seven" : "BlackMan",
+      "eight" : "BlackMan",
+      "nine" : "BlackMan",
+      "ten" : "BlackMan",
+      "eleven" : "BlackMan",
+      "twelve" : "BlackMan",
+      "thirteen" : "Empty",
+      "fourteen" : "Empty",
+      "fifteen" : "Empty",
+      "sixteen" : "Empty",
+      "seventeen" : "Empty",
+      "eighteen" : "Empty",
+      "nineteen" : "Empty",
+      "twenty" : "Empty",
+      "twentyone" : "WhiteMan",
+      "twentytwo" : "WhiteMan",
+      "twentythree" : "WhiteMan",
+      "twentyfour" : "WhiteMan",
+      "twentyfive" : "WhiteMan",
+      "twentysix" : "WhiteMan",
+      "twentyseven" : "WhiteMan",
+      "twentyeight" : "WhiteMan",
+      "twentynine" : "WhiteMan",
+      "thirty" : "WhiteMan",
+      "thirtyone" : "WhiteMan",
+      "thirtytwo" : "WhiteMan"
+      }]
+
+  }
   }
 
 
