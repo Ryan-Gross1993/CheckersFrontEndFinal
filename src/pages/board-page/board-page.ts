@@ -90,6 +90,44 @@ public data: any;
       else return ' '
   }
 
+
+  shuffleBoard(){
+
+      this.data = [{
+      "one" : "WhiteMan",
+      "two" : "WhiteMan",
+      "three" : "WhiteMan",
+      "four" : "WhiteMan",
+      "five" : "WhiteMan",
+      "six" : "BlackMan",
+      "seven" : "BlackMan",
+      "eight" : "BlackMan",
+      "nine" : "BlackMan",
+      "ten" : "BlackMan",
+      "eleven" : "BlackMan",
+      "twelve" : "BlackMan",
+      "thirteen" : "Empty",
+      "fourteen" : "Empty",
+      "fifteen" : "Empty",
+      "sixteen" : "Empty",
+      "seventeen" : "Empty",
+      "eighteen" : "Empty",
+      "nineteen" : "Empty",
+      "twenty" : "Empty",
+      "twentyone" : "WhiteMan",
+      "twentytwo" : "WhiteMan",
+      "twentythree" : "WhiteMan",
+      "twentyfour" : "WhiteMan",
+      "twentyfive" : "WhiteMan",
+      "twentysix" : "WhiteMan",
+      "twentyseven" : "WhiteMan",
+      "twentyeight" : "WhiteMan",
+      "twentynine" : "WhiteMan",
+      "thirty" : "WhiteMan",
+      "thirtyone" : "WhiteMan",
+      "thirtytwo" : "WhiteMan"
+      }]
+  }
   }
 
 
