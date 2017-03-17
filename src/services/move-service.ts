@@ -5,8 +5,8 @@ import { Http } from '@angular/http';
 export class MoveService {
     public data: any;
     responseData: any = [{}];
-    private url: string = "https://warm-spire-37520.herokuapp.com/playerMove";
-    private initUrl: string = "https://warm-spire-37520.herokuapp.com/newGame";
+    private url: string = "//warm-spire-37520.herokuapp.com/playerMove";
+    private initUrl: string = "//warm-spire-37520.herokuapp.com/newGame";
 
       initialState:any ;
 
